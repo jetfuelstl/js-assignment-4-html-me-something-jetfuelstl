@@ -1,1 +1,11 @@
-/* Write your CSS here! */
+img {
+    width: 40px;
+    height: 40px;
+}
+
+.homepage__image--grandma {
+ border: 1px red solid;
+}
+
+
+/* block__element--modifier */
