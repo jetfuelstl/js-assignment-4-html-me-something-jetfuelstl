@@ -1,11 +1,23 @@
 img {
-    width: 40px;
-    height: 40px;
+    width: 400px;
+    height: 500px;
 }
 
 .homepage__image--grandma {
  border: 1px red solid;
 }
 
+#mainHeading {
+    color:red;
+}
 
+body {
+    margin: 8px;
+    display: block;
+
+}
+
+.funParagraph {
+    color: green
+}
 /* block__element--modifier */
